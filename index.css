@@ -1,10 +1,11 @@
 body {
     text-align: center;
     font-family: montserrat, sans-serif;
+    margin: 0;
 }
 
 h1 {
-    margin: 50px auto 0 auto;
+    margin: 0 auto 0 auto;
     font-family: square peg;
     font-size: 5rem;
     color: darkgreen;
